@@ -1,0 +1,247 @@
+{
+  "updatedAt": "2026-05-13",
+  "authority": "greater-cambridge-shared-planning",
+  "count": 24,
+  "applications": [
+    {
+      "ref": "26/01668/S73",
+      "address": "57 Sidney Street, Cambridge CB2 3HX",
+      "postcode": "CB2 3HX",
+      "proposal": "Variation to allow Class E(b) café and Class E(a) retail in tenant units of an existing commercial building in the prime central retail spine",
+      "type": "S73",
+      "status": "Approved",
+      "received": "08/04/2026",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "26/01623/LBC",
+      "address": "The Mill, 14 Mill Lane, Cambridge CB2 1RX",
+      "postcode": "CB2 1RX",
+      "proposal": "Listed building consent for new pub and restaurant signage at The Mill, central Cambridge leisure refresh near King's Parade and Silver Street",
+      "type": "LBC",
+      "status": "Approved",
+      "received": "02/04/2026",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "26/01512/FUL",
+      "address": "Cambridge Biomedical Campus, Hills Road, Cambridge CB2 0AY",
+      "postcode": "CB2 0AY",
+      "proposal": "Cambridge Biomedical Campus expansion phase, new wet-lab and life sciences accommodation adjacent to AstraZeneca Discovery Centre and Addenbrooke's Hospital",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "18/03/2026",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "26/01445/FUL",
+      "address": "Cambridge Science Park, Milton Road, Cambridge CB4 0FW",
+      "postcode": "CB4 0FW",
+      "proposal": "Cambridge Science Park Plot 280 redevelopment, new Grade A lab and office building supporting Trinity College's flagship science park life sciences cluster",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "26/02/2026",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "26/01380/FUL",
+      "address": "St John's Innovation Park, Cowley Road, Cambridge CB4 0WS",
+      "postcode": "CB4 0WS",
+      "proposal": "St John's Innovation Park expansion, new innovation centre managed workspace and lab accommodation north of the Cambridge Science Park cluster",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "12/02/2026",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "26/01302/FUL",
+      "address": "Cambridge South Station Quarter, Hills Road, Cambridge CB2 8AA",
+      "postcode": "CB2 8AA",
+      "proposal": "Cambridge South Station mixed-use scheme, Grade A office accommodation, retail and F&B adjacent to the new Cambridge South station serving the Cambridge Biomedical Campus",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "29/01/2026",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "26/01215/COU",
+      "address": "Mill Road, Cambridge CB1 2AT",
+      "postcode": "CB1 2AT",
+      "proposal": "Mill Road change of use of upper floors above independent retail to managed HMO accommodation, preserving ground-floor independent F&B",
+      "type": "COU",
+      "status": "Approved",
+      "received": "15/01/2026",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "26/01108/COU",
+      "address": "Sidney Street, Cambridge CB2 3HQ",
+      "postcode": "CB2 3HQ",
+      "proposal": "Conversion of upper-floor offices above central retail unit to short-let serviced accommodation and managed flexible workspace",
+      "type": "COU",
+      "status": "Pending",
+      "received": "08/01/2026",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "26/00892/FUL",
+      "address": "Newmarket Road Retail Park, Cambridge CB5 8PB",
+      "postcode": "CB5 8PB",
+      "proposal": "Newmarket Road retail park reconfiguration, additional Class E retail units, drive-through F&B and trade counter accommodation",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "18/12/2025",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "26/00754/FUL",
+      "address": "Cambridge Research Park, Beach Drive, Waterbeach CB25 9TL",
+      "postcode": "CB25 9TL",
+      "proposal": "Cambridge Research Park additional life sciences and innovation accommodation, new lab-ready Class E(g) office accommodation north of Cambridge",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "04/12/2025",
+      "portal": "https://applications.scambs.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00682/FUL",
+      "address": "Granta Park, Great Abington CB21 6GP",
+      "postcode": "CB21 6GP",
+      "proposal": "Granta Park additional R&D and laboratory building, expanding the life sciences cluster south of Cambridge",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "21/11/2025",
+      "portal": "https://applications.scambs.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00568/FUL",
+      "address": "Babraham Research Campus, Babraham CB22 3AT",
+      "postcode": "CB22 3AT",
+      "proposal": "Babraham Research Campus expansion, additional bioincubator accommodation and shared lab facilities supporting the BBSRC institute and tenant spin-outs",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "06/11/2025",
+      "portal": "https://applications.scambs.gov.uk/online-applications/"
+    },
+    {
+      "ref": "26/00475/COU",
+      "address": "Hills Road, Cambridge CB2 8RN",
+      "postcode": "CB2 8RN",
+      "proposal": "Change of use of upper floors of professional services building to managed flexible workspace, retaining ground-floor solicitor occupier",
+      "type": "COU",
+      "status": "Approved",
+      "received": "23/10/2025",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "26/00398/FUL",
+      "address": "Cambridge North Station, Cowley Road, Cambridge CB4 1WR",
+      "postcode": "CB4 1WR",
+      "proposal": "Cambridge North mixed-use scheme adjacent to Cambridge North station, Grade A office accommodation supporting science park occupiers and ground-floor retail and F&B",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "10/10/2025",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "26/00312/FUL",
+      "address": "Trumpington Meadows, Cambridge CB2 9FT",
+      "postcode": "CB2 9FT",
+      "proposal": "Trumpington Meadows mixed-use neighbourhood centre, ground-floor neighbourhood retail, healthcare and F&B with managed residential above",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "26/09/2025",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "25/02875/FUL",
+      "address": "Chesterton Road, Cambridge CB4 1DA",
+      "postcode": "CB4 1DA",
+      "proposal": "Chesterton parade refurbishment, frontage works and change of use of upper floors to extended independent retail and F&B parade with managed residential above",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "12/09/2025",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "25/02712/FUL",
+      "address": "Grand Arcade, St Andrew's Street, Cambridge CB2 3BJ",
+      "postcode": "CB2 3BJ",
+      "proposal": "Grand Arcade tenant mix reconfiguration, anchor unit subdivision and new F&B accommodation in the central Cambridge retail spine",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "28/08/2025",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "25/02545/FUL",
+      "address": "Cherry Hinton Road, Cambridge CB1 7AG",
+      "postcode": "CB1 7AG",
+      "proposal": "Cherry Hinton suburban retail parade refurbishment with healthcare and dental practice space alongside neighbourhood retail and F&B",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "14/08/2025",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "25/02402/COU",
+      "address": "Mill Road, Cambridge CB1 3NL",
+      "postcode": "CB1 3NL",
+      "proposal": "Conversion of dance school to managed HMO accommodation with rear extension and listed building alterations",
+      "type": "COU",
+      "status": "Approved",
+      "received": "30/07/2025",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "25/02289/FUL",
+      "address": "Cambridge Innovation Park, Denny End Road, Waterbeach CB25 9PB",
+      "postcode": "CB25 9PB",
+      "proposal": "New light industrial and Class B2 accommodation supporting Cambridge tech and life sciences fringe occupiers, north Cambridge growth corridor",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "16/07/2025",
+      "portal": "https://applications.scambs.gov.uk/online-applications/"
+    },
+    {
+      "ref": "25/02145/FUL",
+      "address": "Newmarket Road Hotel Cluster, Cambridge CB5 8WT",
+      "postcode": "CB5 8WT",
+      "proposal": "New 124-bedroom hotel and ground-floor F&B accommodation in the Newmarket Road hospitality cluster east of Cambridge city centre",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "02/07/2025",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "25/01998/FUL",
+      "address": "West Cambridge Site, JJ Thomson Avenue, Cambridge CB3 0FA",
+      "postcode": "CB3 0FA",
+      "proposal": "West Cambridge research site additional Grade A office and laboratory accommodation supporting University of Cambridge departments and spin-outs",
+      "type": "FUL",
+      "status": "Pending",
+      "received": "18/06/2025",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "25/01856/COU",
+      "address": "Newnham Road, Newnham, Cambridge CB3 9EY",
+      "postcode": "CB3 9EY",
+      "proposal": "Change of use of Newnham retail parade upper floors to managed serviced offices, preserving ground-floor independent retail and F&B in the high-value semi-commercial belt",
+      "type": "COU",
+      "status": "Approved",
+      "received": "04/06/2025",
+      "portal": "https://applications.greatercambridgeplanning.org/online-applications/"
+    },
+    {
+      "ref": "25/01702/FUL",
+      "address": "Histon Vision Park, Chivers Way, Histon CB24 9NL",
+      "postcode": "CB24 9NL",
+      "proposal": "Vision Park Histon additional Class E(g) office and Class B8 logistics accommodation, A14 fringe expansion supporting Cambridge science park overflow",
+      "type": "FUL",
+      "status": "Approved",
+      "received": "21/05/2025",
+      "portal": "https://applications.scambs.gov.uk/online-applications/"
+    }
+  ]
+}

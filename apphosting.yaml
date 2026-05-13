@@ -1,0 +1,30 @@
+# Firebase App Hosting config for Commercial Mortgages Cambridge
+# Native Next.js 16 SSR support. See https://firebase.google.com/docs/app-hosting/configure
+runConfig:
+  cpu: 1
+  memoryMiB: 512
+  maxInstances: 10
+  minInstances: 0
+  concurrency: 80
+  timeoutSeconds: 300
+
+env:
+  - variable: RESEND_TO
+    value: commercialmortgagesbroker@gmail.com
+    availability:
+      - BUILD
+      - RUNTIME
+  - variable: SITE_SOURCE
+    value: "Commercial Mortgages Cambridge Primary Website"
+    availability:
+      - BUILD
+      - RUNTIME
+  - variable: SITE_TAG
+    value: CommercialMortgagesCambridge
+    availability:
+      - BUILD
+      - RUNTIME
+  - variable: RESEND_API_KEY
+    secret: resend-api-key
+    availability:
+      - RUNTIME
