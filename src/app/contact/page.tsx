@@ -130,7 +130,7 @@ export default function ContactPage() {
                         Hours
                       </p>
                       <p className="text-base text-gray-700">
-                        Monday\u2013Friday, 8am\u20136pm
+                        Monday–Friday, 8am–6pm
                       </p>
                     </div>
                     <div>
@@ -152,16 +152,16 @@ export default function ContactPage() {
                   </p>
                   <ul className="mt-4 space-y-2 text-sm text-gray-600">
                     <li>
-                      \u2192 <Link href="/calculator" className="text-secondary hover:underline">Model your repayments</Link> with our commercial mortgage calculator
+                      → <Link href="/calculator" className="text-secondary hover:underline">Model your repayments</Link> with our commercial mortgage calculator
                     </li>
                     <li>
-                      \u2192 <Link href="/services" className="text-secondary hover:underline">Review mortgage products</Link> owner-occupier / investment / semi-commercial / portfolio / trading-business
+                      → <Link href="/services" className="text-secondary hover:underline">Review mortgage products</Link> owner-occupier / investment / semi-commercial / portfolio / trading-business
                     </li>
                     <li>
-                      \u2192 <Link href="/areas" className="text-secondary hover:underline">Browse Cambridge areas we cover</Link>
+                      → <Link href="/areas" className="text-secondary hover:underline">Browse Cambridge areas we cover</Link>
                     </li>
                     <li>
-                      \u2192 <Link href="/how-it-works" className="text-secondary hover:underline">How the process works</Link>
+                      → <Link href="/how-it-works" className="text-secondary hover:underline">How the process works</Link>
                     </li>
                   </ul>
                 </div>
