@@ -10,7 +10,7 @@ runConfig:
 
 env:
   - variable: RESEND_TO
-    value: commercialmortgagesbroker@gmail.com
+    value: matt.lenzie@gmail.com
     availability:
       - BUILD
       - RUNTIME
